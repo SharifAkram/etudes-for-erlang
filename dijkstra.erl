@@ -13,6 +13,10 @@ gcd(M, N) ->
 
 % c(dijkstra).
 % dijkstra:gcd(12, 8).
+% 4
 % dijkstra:gcd(14, 21).
+% 7
 % dijkstra:gcd(125, 46).
+% 1
 % dijkstra:gcd(120, 36).
+% 12
